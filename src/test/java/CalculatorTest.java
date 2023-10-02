@@ -6,7 +6,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class ComplexTestCalculator {
+public class CalculatorTest {
 
     static Calculator calculator;
 
